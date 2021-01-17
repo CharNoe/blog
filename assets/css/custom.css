@@ -1,0 +1,23 @@
+.about {
+    max-width:700px;
+    margin-right: auto;
+    margin-left : auto;
+}
+
+.summary-classic__image-container {
+    align-self: flex-start;
+    border-radius: .25rem;
+}
+
+.summary-classic__content .single__contents {
+    margin-left: 1rem;
+}
+
+.read-more {
+    margin-left: 80%;
+}
+
+.single__contents .table-wrapper table {
+    margin-right: auto;
+    margin-left : auto;
+}
