@@ -1,4 +1,5 @@
-logoText = "Home"
+logo = false
+logoText = "🍌Home"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = ["css/custom.css"]
