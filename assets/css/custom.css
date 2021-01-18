@@ -4,17 +4,22 @@
     margin-left : auto;
 }
 
-.summary-classic__image-container {
-    align-self: flex-start;
-    border-radius: .25rem;
+.summary-classic__text {
+    list-style-position: inside;
+    margin-left: 5px;
 }
 
-.summary-classic__content .single__contents {
-    margin-left: 1rem;
+.summary-classic__text img {
+    border-radius: .25rem;
+    max-width: 200px;
+    max-height: 200px;
+    float: right;
+    margin: 0 0 10px 10px;
 }
 
 .read-more {
-    margin-left: 80%;
+    margin: 1rem 1rem 0.5rem 0;
+    text-align: right;
 }
 
 .single__contents .table-wrapper table {

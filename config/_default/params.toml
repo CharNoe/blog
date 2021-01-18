@@ -61,7 +61,7 @@ myname = "CharNoe"
 whoami = "へっぽこプログラマ"
 bioImageUrl = "images/whoami/avatar-custom.jpg"
 useGravatar = false
-location = "日本"
+location = "Japan"
 #organization = "Hugo"
 #link = "https://zzossig.io/ko"
 
@@ -157,7 +157,7 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = ""
   phone = ""
   facebook = ""
   twitter = "https://twitter.com/eoNrahC"

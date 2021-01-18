@@ -1,5 +1,5 @@
 baseURL = "http://charnoe.github.io/blog/"
-title = "蒸留バナナ"
+title = "蒸留バナナ日誌"
 theme = "zzo"
 
 defaultContentLanguage = "ja"

@@ -27,7 +27,7 @@ header:
     title:
       - 蒸留バナナ
     subtitle:
-      - プログラミングとお絵かきとその他諸々
+      - 雑記とお絵かきと、時々、プログラミング
     titleColor: 
     titleShadow: true
     titleFontSize: 44
@@ -46,9 +46,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - お気楽コーディング日誌
+      - 蒸留バナナ
     subtitle:
-      - プログラミングとお絵かきとその他諸々
+      - 雑記とお絵かきと、時々、プログラミング
     titleColor:
     titleShadow: false
     titleFontSize: 44
