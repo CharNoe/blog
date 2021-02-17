@@ -11,10 +11,11 @@
 
 .summary-classic__text img {
     border-radius: .25rem;
-    max-width: 200px;
-    max-height: 200px;
-    float: right;
-    margin: 0 0 10px 10px;
+    max-width: 90%;
+    max-height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .read-more {
