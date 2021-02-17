@@ -6,7 +6,7 @@ tags:
 - キラッとプリ☆チャン
 categories:
 - お絵かき
-meta_image: "/gallery/illust/2021_02_09_ルルナ.jpg"
+meta_image: "/blog/gallery/illust/2021_02_09_ルルナ.jpg"
 ---
 
 ここ一ヶ月のイラストを厳選してお届け。
