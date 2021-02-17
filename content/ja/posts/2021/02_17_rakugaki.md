@@ -3,8 +3,10 @@ title: 最近の落書き
 date: 2021-02-17 23:40:43
 tags:
 - プリパラ
+- キラッとプリ☆チャン
 categories:
 - お絵かき
+meta_image: "/gallery/illust/2021_02_09_ルルナ.jpg"
 ---
 
 ここ一ヶ月のイラストを厳選してお届け。
