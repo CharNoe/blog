@@ -25,7 +25,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - 蒸留バナナ
+      - イラスト置き場
     subtitle:
       - 雑記とお絵かきと、時々、プログラミング
     titleColor: 
@@ -46,7 +46,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - 蒸留バナナ
+      - イラスト置き場
     subtitle:
       - 雑記とお絵かきと、時々、プログラミング
     titleColor:

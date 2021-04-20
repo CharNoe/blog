@@ -61,6 +61,7 @@ myname = "CharNoe"
 #email = "zzossig@gmail.com"
 whoami = "へっぽこプログラマ"
 bioImageUrl = "images/whoami/avatar-custom.jpg"
+authorImage = "images/whoami/avatar-custom.jpg"
 useGravatar = false
 location = "Japan"
 #organization = "Hugo"
